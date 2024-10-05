@@ -83,6 +83,91 @@ class _QuizScreenState extends State<QuizScreen> {
       'answers': ['A) Bolinao', 'B) San Fabian', 'C) Anda', 'D) Alaminos'],
       'correctAnswer': 0
     },
+    {
+      'question':
+          'Which Pangasinan city is known as the “Milkfish Capital of the Philippines”?',
+      'answers': ['A) Dagupan', 'B) Urdaneta', 'C) Alaminos', 'D) Lingayen'],
+      'correctAnswer': 0
+    },
+    {
+      'question':
+          'Which island is a famous pilgrimage site during Holy Week in Pangasinan?',
+      'answers': [
+        'A) Romulo Island',
+        'B) Pilgrimage Island',
+        'C) Tondol Island',
+        'D) Anda Island'
+      ],
+      'correctAnswer': 1
+    },
+    {
+      'question':
+          'Which popular waterfall can be found in Bolinao, Pangasinan?',
+      'answers': [
+        'A) Tambobong Falls',
+        'B) Pantal Falls',
+        'C) Bolinao Falls',
+        'D) Lucap Falls'
+      ],
+      'correctAnswer': 2
+    },
+    {
+      'question': 'What is the major religion practiced in Pangasinan?',
+      'answers': [
+        'A) Roman Catholicism',
+        'B) Protestantism',
+        'C) Islam',
+        'D) Buddhism'
+      ],
+      'correctAnswer': 0
+    },
+    {
+      'question':
+          'Which mountain range lies in the northern part of Pangasinan?',
+      'answers': [
+        'A) Cordillera',
+        'B) Sierra Madre',
+        'C) Caraballo',
+        'D) Zambales Range'
+      ],
+      'correctAnswer': 3
+    },
+    {
+      'question':
+          'What is the nickname of the municipality of Mangatarem in Pangasinan?',
+      'answers': [
+        'A) “Forest Capital of Pangasinan”',
+        'B) “Bangus Capital”',
+        'C) “City of Gold”',
+        'D) “Gateway to the West”'
+      ],
+      'correctAnswer': 0
+    },
+    {
+      'question': 'Which famous river is found in Pangasinan?',
+      'answers': [
+        'A) Pantal River',
+        'B) Pasig River',
+        'C) Cagayan River',
+        'D) Agno River'
+      ],
+      'correctAnswer': 3
+    },
+    {
+      'question': 'In which year did Pangasinan become a province?',
+      'answers': ['A) 1572', 'B) 1660', 'C) 1901', 'D) 1946'],
+      'correctAnswer': 0
+    },
+    {
+      'question': 'What is the local term for rice cakes made in Pangasinan?',
+      'answers': ['A) Patupat', 'B) Bibingka', 'C) Tupig', 'D) Kutsinta'],
+      'correctAnswer': 2
+    },
+    {
+      'question': 'Which Pangasinan city is home to the scenic Tondol Beach?',
+      'answers': ['A) Anda', 'B) Alaminos', 'C) San Fabian', 'D) Bolinao'],
+      'correctAnswer': 0
+    },
   ];
 
   List<Map<String, Object>> _selectedQuestions = [];
